@@ -1,0 +1,28 @@
+name: Ivo
+favicon: null
+layout_spectrum: 0.25791348051279783
+typography_spectrum: 0.1874069063924253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7701434378977865
+  lightness: 0.7046292263548821
+  saturation: 0.5169869707897305
+  rhythmicContrast: 0.39792907843366265
+purpose: []
